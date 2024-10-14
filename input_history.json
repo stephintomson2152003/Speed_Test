@@ -1,0 +1,404 @@
+{
+  "score": 0,
+  "level": 1,
+  "inputHistory": [
+    {
+      "input": "f",
+      "timestamp": "2024-10-14T07:11:31.115Z"
+    },
+    {
+      "input": "g",
+      "timestamp": "2024-10-14T07:11:31.194Z"
+    },
+    {
+      "input": "f",
+      "timestamp": "2024-10-14T07:11:31.196Z"
+    },
+    {
+      "input": "h",
+      "timestamp": "2024-10-14T07:11:31.198Z"
+    },
+    {
+      "input": "v",
+      "timestamp": "2024-10-14T07:11:31.227Z"
+    },
+    {
+      "input": "j",
+      "timestamp": "2024-10-14T07:11:31.236Z"
+    },
+    {
+      "input": "b",
+      "timestamp": "2024-10-14T07:11:31.249Z"
+    },
+    {
+      "input": "k",
+      "timestamp": "2024-10-14T07:11:31.266Z"
+    },
+    {
+      "input": "h",
+      "timestamp": "2024-10-14T07:11:31.325Z"
+    },
+    {
+      "input": "u",
+      "timestamp": "2024-10-14T07:11:31.346Z"
+    },
+    {
+      "input": "g",
+      "timestamp": "2024-10-14T07:11:31.373Z"
+    },
+    {
+      "input": "y",
+      "timestamp": "2024-10-14T07:11:31.376Z"
+    },
+    {
+      "input": "f",
+      "timestamp": "2024-10-14T07:11:31.398Z"
+    },
+    {
+      "input": "c",
+      "timestamp": "2024-10-14T07:11:31.424Z"
+    },
+    {
+      "input": "v",
+      "timestamp": "2024-10-14T07:11:31.438Z"
+    },
+    {
+      "input": "b",
+      "timestamp": "2024-10-14T07:11:31.459Z"
+    },
+    {
+      "input": " ",
+      "timestamp": "2024-10-14T07:11:31.472Z"
+    },
+    {
+      "input": "n",
+      "timestamp": "2024-10-14T07:11:31.509Z"
+    },
+    {
+      "input": "m",
+      "timestamp": "2024-10-14T07:11:31.536Z"
+    },
+    {
+      "input": ",",
+      "timestamp": "2024-10-14T07:11:31.563Z"
+    },
+    {
+      "input": "k",
+      "timestamp": "2024-10-14T07:11:31.585Z"
+    },
+    {
+      "input": "l",
+      "timestamp": "2024-10-14T07:11:31.597Z"
+    },
+    {
+      "input": "j",
+      "timestamp": "2024-10-14T07:11:31.636Z"
+    },
+    {
+      "input": "i",
+      "timestamp": "2024-10-14T07:11:31.652Z"
+    },
+    {
+      "input": "u",
+      "timestamp": "2024-10-14T07:11:31.665Z"
+    },
+    {
+      "input": "y",
+      "timestamp": "2024-10-14T07:11:31.691Z"
+    },
+    {
+      "input": "g",
+      "timestamp": "2024-10-14T07:11:31.706Z"
+    },
+    {
+      "input": "t",
+      "timestamp": "2024-10-14T07:11:31.718Z"
+    },
+    {
+      "input": "f",
+      "timestamp": "2024-10-14T07:11:31.723Z"
+    },
+    {
+      "input": "c",
+      "timestamp": "2024-10-14T07:11:31.762Z"
+    },
+    {
+      "input": "v",
+      "timestamp": "2024-10-14T07:11:31.798Z"
+    },
+    {
+      "input": " ",
+      "timestamp": "2024-10-14T07:11:31.823Z"
+    },
+    {
+      "input": "b",
+      "timestamp": "2024-10-14T07:11:31.826Z"
+    },
+    {
+      "input": "n",
+      "timestamp": "2024-10-14T07:11:31.866Z"
+    },
+    {
+      "input": "m",
+      "timestamp": "2024-10-14T07:11:31.891Z"
+    },
+    {
+      "input": ",",
+      "timestamp": "2024-10-14T07:11:31.913Z"
+    },
+    {
+      "input": ".",
+      "timestamp": "2024-10-14T07:11:31.942Z"
+    },
+    {
+      "input": "l",
+      "timestamp": "2024-10-14T07:11:31.964Z"
+    },
+    {
+      "input": "k",
+      "timestamp": "2024-10-14T07:11:31.981Z"
+    },
+    {
+      "input": "j",
+      "timestamp": "2024-10-14T07:11:32.033Z"
+    },
+    {
+      "input": "o",
+      "timestamp": "2024-10-14T07:11:32.034Z"
+    },
+    {
+      "input": "i",
+      "timestamp": "2024-10-14T07:11:32.035Z"
+    },
+    {
+      "input": "u",
+      "timestamp": "2024-10-14T07:11:32.045Z"
+    },
+    {
+      "input": "y",
+      "timestamp": "2024-10-14T07:11:32.070Z"
+    },
+    {
+      "input": "g",
+      "timestamp": "2024-10-14T07:11:32.088Z"
+    },
+    {
+      "input": "t",
+      "timestamp": "2024-10-14T07:11:32.096Z"
+    },
+    {
+      "input": "f",
+      "timestamp": "2024-10-14T07:11:32.103Z"
+    },
+    {
+      "input": "g",
+      "timestamp": "2024-10-14T07:11:32.111Z"
+    },
+    {
+      "input": "d",
+      "timestamp": "2024-10-14T07:11:32.132Z"
+    },
+    {
+      "input": "c",
+      "timestamp": "2024-10-14T07:11:32.155Z"
+    },
+    {
+      "input": "x",
+      "timestamp": "2024-10-14T07:11:32.162Z"
+    },
+    {
+      "input": "v",
+      "timestamp": "2024-10-14T07:11:32.186Z"
+    },
+    {
+      "input": " ",
+      "timestamp": "2024-10-14T07:11:32.211Z"
+    },
+    {
+      "input": "m",
+      "timestamp": "2024-10-14T07:11:32.308Z"
+    },
+    {
+      "input": ",",
+      "timestamp": "2024-10-14T07:11:32.324Z"
+    },
+    {
+      "input": "k",
+      "timestamp": "2024-10-14T07:11:32.373Z"
+    },
+    {
+      "input": "l",
+      "timestamp": "2024-10-14T07:11:32.382Z"
+    },
+    {
+      "input": "j",
+      "timestamp": "2024-10-14T07:11:32.418Z"
+    },
+    {
+      "input": "i",
+      "timestamp": "2024-10-14T07:11:32.431Z"
+    },
+    {
+      "input": "u",
+      "timestamp": "2024-10-14T07:11:32.447Z"
+    },
+    {
+      "input": "y",
+      "timestamp": "2024-10-14T07:11:32.476Z"
+    },
+    {
+      "input": "t",
+      "timestamp": "2024-10-14T07:11:32.501Z"
+    },
+    {
+      "input": "f",
+      "timestamp": "2024-10-14T07:11:32.516Z"
+    },
+    {
+      "input": "r",
+      "timestamp": "2024-10-14T07:11:32.544Z"
+    },
+    {
+      "input": "d",
+      "timestamp": "2024-10-14T07:11:32.545Z"
+    },
+    {
+      "input": "x",
+      "timestamp": "2024-10-14T07:11:32.575Z"
+    },
+    {
+      "input": "c",
+      "timestamp": "2024-10-14T07:11:32.603Z"
+    },
+    {
+      "input": "v",
+      "timestamp": "2024-10-14T07:11:32.640Z"
+    },
+    {
+      "input": " ",
+      "timestamp": "2024-10-14T07:11:32.653Z"
+    },
+    {
+      "input": "b",
+      "timestamp": "2024-10-14T07:11:32.676Z"
+    },
+    {
+      "input": "n",
+      "timestamp": "2024-10-14T07:11:32.704Z"
+    },
+    {
+      "input": "m",
+      "timestamp": "2024-10-14T07:11:32.722Z"
+    },
+    {
+      "input": ",",
+      "timestamp": "2024-10-14T07:11:32.749Z"
+    },
+    {
+      "input": ".",
+      "timestamp": "2024-10-14T07:11:32.776Z"
+    },
+    {
+      "input": "l",
+      "timestamp": "2024-10-14T07:11:32.782Z"
+    },
+    {
+      "input": "k",
+      "timestamp": "2024-10-14T07:11:32.797Z"
+    },
+    {
+      "input": "o",
+      "timestamp": "2024-10-14T07:11:32.840Z"
+    },
+    {
+      "input": "i",
+      "timestamp": "2024-10-14T07:11:32.858Z"
+    },
+    {
+      "input": "u",
+      "timestamp": "2024-10-14T07:11:32.878Z"
+    },
+    {
+      "input": "y",
+      "timestamp": "2024-10-14T07:11:32.908Z"
+    },
+    {
+      "input": "t",
+      "timestamp": "2024-10-14T07:11:32.936Z"
+    },
+    {
+      "input": "f",
+      "timestamp": "2024-10-14T07:11:32.962Z"
+    },
+    {
+      "input": "g",
+      "timestamp": "2024-10-14T07:11:32.979Z"
+    },
+    {
+      "input": "c",
+      "timestamp": "2024-10-14T07:11:33.007Z"
+    },
+    {
+      "input": "v",
+      "timestamp": "2024-10-14T07:11:33.035Z"
+    },
+    {
+      "input": " ",
+      "timestamp": "2024-10-14T07:11:33.057Z"
+    },
+    {
+      "input": "b",
+      "timestamp": "2024-10-14T07:11:33.073Z"
+    },
+    {
+      "input": "m",
+      "timestamp": "2024-10-14T07:11:33.151Z"
+    },
+    {
+      "input": ",",
+      "timestamp": "2024-10-14T07:11:33.161Z"
+    },
+    {
+      "input": ".",
+      "timestamp": "2024-10-14T07:11:33.179Z"
+    },
+    {
+      "input": "l",
+      "timestamp": "2024-10-14T07:11:33.211Z"
+    },
+    {
+      "input": ";",
+      "timestamp": "2024-10-14T07:11:33.233Z"
+    },
+    {
+      "input": "k",
+      "timestamp": "2024-10-14T07:11:33.273Z"
+    },
+    {
+      "input": "o",
+      "timestamp": "2024-10-14T07:11:33.284Z"
+    },
+    {
+      "input": "i",
+      "timestamp": "2024-10-14T07:11:33.308Z"
+    },
+    {
+      "input": "u",
+      "timestamp": "2024-10-14T07:11:33.335Z"
+    },
+    {
+      "input": "h",
+      "timestamp": "2024-10-14T07:11:33.372Z"
+    },
+    {
+      "input": "y",
+      "timestamp": "2024-10-14T07:11:33.390Z"
+    },
+    {
+      "input": "g",
+      "timestamp": "2024-10-14T07:11:33.395Z"
+    }
+  ],
+  "currentSentence": "A Coke spokesman said he could n't say whether that is the direction of the talks .",
+  "userInput": "fgfhvjbkhugyfcvb nm,kljiuygtfcv bnm,.lkjoiuygtfgdcxv m,kljiuytfrdxcv bnm,.lkoiuytfgcv bm,.l;koiuhyg"
+}
