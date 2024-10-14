@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3-Page System: Menu, Game, Result</title>
+  <style>
+    .page {
+      display: none;
+    }
+    .active {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div id="menuPage" class="page active">
+    <h1>Welcome to the Game</h1>
+    <button onclick="navigateTo('gamePage')">Start Game</button>
+  </div>
+
+  <div id="gamePage" class="page">
+    <h1>Game Page</h1>
+    <input type="text" id="dataInput" placeholder="Enter data">
+    <button onclick="processData()">Submit</button>
+    <button onclick="navigateTo('menuPage')">Back to Menu</button>
+    <button onclick="navigateTo('resultPage')">See Result</button>
+  </div>
+
+  <div id="resultPage" class="page">
+    <h1>Result Page</h1>
+    <p id="result">Result: </p>
+    <button onclick="navigateTo('menuPage')">Back to Menu</button>
+    <button onclick="navigateTo('gamePage')">Play Again</button>
+  </div>
+
+  <script>
+    function navigateTo(pageId) {
+      // Hide all pages
+      document.querySelectorAll('.page').forEach(page => page.classList.remove('active'));
+      // Show the selected page
+      document.getElementById(pageId).classList.add('active');
+    }
+
+    function processData() {
+      const inputData = document.getElementById('dataInput').value;
+      
+      // Processing data (reverse the input as an example)
+      const processedData = inputData.split('').reverse().join('');
+      
+      // Display the result on the result page
+      document.getElementById('result').textContent = `Result: ${processedData}`;
+      
+      // Navigate to the result page
+      navigateTo('resultPage');
+    }
+  </script>
+</body>
+</html>
